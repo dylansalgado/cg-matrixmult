@@ -241,3 +241,4 @@ class Vector extends Matrix {
         return result;
     }
 }
+
